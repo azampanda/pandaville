@@ -1,0 +1,124 @@
+<html>
+	<head>
+		<link rel="icon" type="image/ico" href="https://static.thenounproject.com/png/145014-200.png">
+		<title>Azam Panda</title>
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+	</head>
+	<style>
+		body
+		{
+			background-image: url("https://wallpaperaccess.com/full/308416.jpg");
+			background-repeat: no-repeat;
+			background-size:1600px 800px;
+			background-attachment:fixed;
+		}
+		
+	</style>
+	<body>
+		<nav id="biodata" class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
+			<a class="navbar-brand" href="#">Azam</a>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" 
+					aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+			</button>
+
+			<div class="collapse navbar-collapse" id="navbarSupportedContent">
+				<ul class="navbar-nav mr-auto">
+					<li class="nav-item active">
+						<a class="nav-link" href="azam.html">Home <span class="sr-only">(current)</span></a>
+					</li>
+					
+					<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" 
+							data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About Me</a>
+					
+					<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+						<a class="dropdown-item" href="#biodata">Biodata</a>
+						<a class="dropdown-item" href="#hobby">Hobby</a>
+						<a class="dropdown-item" href="#gzgz">Achievements</a>
+					</div>
+					
+					</li>
+					<li class="nav-item">
+						<a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">--<(^ _ ^)>--</a>
+					</li>
+				</ul>
+				
+				<!--form class="form-inline my-2 my-lg-0">
+				  <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+				  <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+				</form-->
+			</div>
+		</nav>
+	
+		<div style="text-align:center">
+			<br>
+			<img style="border:2px solid purple" src="mapic.jpg" height="405" width="356.25"  >
+			
+			<table align="center" style="color:white">
+				<tr>
+					<td>
+						Name:
+					</td>
+					<td>
+						Mohd Azamuddin bin Teruna
+					</td>
+				</tr>
+				<tr>
+					<td>
+						DOB:
+					</td>
+					<td>
+						20th December 1999 / 12th Ramadhan 1420H
+					</td>
+				</tr>
+				<tr>
+					<td>
+						Height:
+					</td>
+					<td>
+						170cm / 5'7"
+					</td>
+				</tr>
+				<tr>
+					<td>
+						Qualification:
+					</td>
+					<td>
+						SPM / Diploma in Computer Science(soon to be achieved)
+					</td>
+				</tr>
+				<tr>
+					<td>
+						Contact Number:
+					</td>
+					<td>
+						011-3541 5821
+					</td>
+				</tr>
+				<tr>
+					<td>
+						Email address:
+					</td>
+					<td>
+						az.99.azam@gmail.com
+					</td>
+				</tr>
+			</table>
+			
+		</div>
+		<br><br><br><br><br id="hobby" ><br>
+		<hr>
+		<div style="text-align:center;color:white">
+			<h5 style="text-align:center;">HOBBY</h5>
+			<br>
+			<iframe width="972" height="547" src="https://www.youtube.com/embed/mE7h81XIlyA?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<p>Playing computer games</p>
+			<iframe width="972" height="547" src="https://www.youtube.com/embed/SxLcO2kodFU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<p>Watching anime(s)</p>
+		</div>
+	</body>
+</html>
